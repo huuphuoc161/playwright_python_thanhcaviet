@@ -1,0 +1,17 @@
+# Igonored files
+.DS_Store
+.idea
+/.idea/*
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#data
+data/json/user.json
